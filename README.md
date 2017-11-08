@@ -1,4 +1,4 @@
-# weather-station-nokia5110-resources
+# Resources related to the weather station for nokia5110 LCD display
 Images, wiring schematics, fonts and other resources related to the weather station for Nokia 5110 LCD project.
 
 This repository contains the resources related to [esp8266 weather station for Nokia 5110 LCD](https://github.com/gcassarino/esp8266-weather-station-nokia5110) project.
